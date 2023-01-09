@@ -51,4 +51,3 @@ File ini berfungsi untuk menambahkan data ke databse toilet
 ## 15.	Membuat file hap_toilet.php
 Tujuannya untuk menghapus data toilet dari database toilet
 ![Syntax](sscod/12.png)
-![Hasil](ssdb/6.png)
