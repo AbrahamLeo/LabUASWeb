@@ -4,6 +4,15 @@
 ## 2.	Membuat databse toilet
 ## 3.	Membuat database users
 ## 4.	Membuat Koneksi.php
+
+<?php 
+$host = "localhost"; 
+$user = "root"; 
+$pass = "";
+$db = "uas"; 
+$conn = mysqli_connect($host, $user, $pass, $db); 
+?>
+
 ## 5.	Membuat Halaman Login
 Halaman ini berfungsi sebagai halaman awal saat membuka website ini
 ## 6.	Membuat login_session.php
